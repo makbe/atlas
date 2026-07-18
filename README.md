@@ -36,3 +36,4 @@ git push -u origin main
 Пример: `R-001-human-potential.md`.
 # atlas
 # atlas
+# atlas
